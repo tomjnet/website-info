@@ -1,6 +1,31 @@
 {
   "posts": [
     {
+      "slug": "2026-09-29-modern-cpp-deep-dives-playlist",
+      "file": "posts/2026-09-29-modern-cpp-deep-dives-playlist.md",
+      "title": "Modern C++ Deep Dives: a new YouTube series",
+      "date": "2026-09-29",
+      "tags": [
+        "c++",
+        "youtube",
+        "data-structures"
+      ],
+      "summary": "A new YouTube playlist: 15 short videos on the history of C++ and every standard container - Big-O, memory layout and when to use each."
+    },
+    {
+      "slug": "2026-09-29-inside-the-cpu-playlists",
+      "file": "posts/2026-09-29-inside-the-cpu-playlists.md",
+      "title": "Inside the CPU: how the processor talks to everything else",
+      "date": "2026-09-29",
+      "tags": [
+        "cpu",
+        "hardware",
+        "low-latency",
+        "youtube"
+      ],
+      "summary": "A long YouTube series on the CPU and how it interacts with memory, devices and accelerators - split into 12 topic playlists."
+    },
+    {
       "slug": "2026-09-29-cpp-is-not-dying-in-quant-finance",
       "file": "posts/2026-09-29-cpp-is-not-dying-in-quant-finance.md",
       "title": "C++ is not dying in quant finance - it's getting more critical",
