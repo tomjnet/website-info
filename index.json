@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "slug": "2026-09-29-cpp-is-not-dying-in-quant-finance",
+      "file": "posts/2026-09-29-cpp-is-not-dying-in-quant-finance.md",
+      "title": "C++ is not dying in quant finance - it's getting more critical",
+      "date": "2026-09-29",
+      "tags": [
+        "c++",
+        "quant",
+        "low-latency"
+      ],
+      "summary": "While the industry obsesses over Python and LLMs, the engineers who actually move markets are doubling down on C++.",
+      "cover": "posts/images/low-latency-quant-stack.png"
+    }
+  ],
+  "research": [
+    {
+      "slug": "minicollide",
+      "file": "research/minicollide.md",
+      "title": "minicollide: Numerical Methods for Real-Time Rigid-Body Dynamics in a Compact, Deterministic Physics Engine",
+      "summary": "A from-scratch 3D rigid-body physics engine built as a laboratory for the numerical methods behind real-time simulation: symplectic integration, sweep-and-prune broadphase, SAT and GJK+EPA collision detection, and a warm-started sequential-impulse solver. Constraint islands are solved in parallel with bit-exact determinism, validated with four instrumented demos.",
+      "status": "published",
+      "tags": [
+        "physics",
+        "numerical-methods",
+        "rigid-body-lab"
+      ],
+      "venue": "ResearchGate",
+      "url": "https://www.researchgate.net/publication/410804296_minicollide_Numerical_Methods_for_Real-Time_Rigid-Body_Dynamics_in_a_Compact_Deterministic_Physics_Engine_rigid-body-lab_Code_httpsgithubcomtomjnetrigid-body-lab",
+      "pdf": "research/minicollide.pdf",
+      "code": "https://github.com/tomjnet/rigid-body-lab"
+    }
+  ]
+}
