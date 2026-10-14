@@ -42,7 +42,7 @@
   "research": [
     {
       "slug": "deterministic-llm-compiler",
-      "file": "research/seq-lang-llm.md",
+      "file": "research/deterministic-llm-compiler.md",
       "title": "Improving LLM Code Generation Reliability Through Compiler-Validated Intermediate Representations",
       "summary": "A controlled study protocol testing whether a typed intermediate representation, deterministic compiler validation and one bounded repair attempt make LLM-generated code more reliable. Using the Seq language's compiler front end and C back end, five comparison arms separate the effects of the IR, grammar-constrained decoding and compiler-guided repair across 120 tasks, with functional correctness on independent tests as the primary outcome. No experimental results are claimed yet.",
       "status": "published",
@@ -74,7 +74,7 @@
       ],
       "venue": "ResearchGate",
       "url": "https://www.researchgate.net/publication/410804296_minicollide_Numerical_Methods_for_Real-Time_Rigid-Body_Dynamics_in_a_Compact_Deterministic_Physics_Engine_rigid-body-lab_Code_httpsgithubcomtomjnetrigid-body-lab",
-      "pdf": "https://www.researchgate.net/publication/410804296_minicollide_Numerical_Methods_for_Real-Time_Rigid-Body_Dynamics_in_a_Compact_Deterministic_Physics_Engine_rigid-body-lab_Code_httpsgithubcomtomjnetrigid-body-lab",
+      "pdf": "research/minicollide.pdf",
       "code": "https://github.com/tomjnet/rigid-body-lab"
     }
   ]
