@@ -41,7 +41,7 @@
   ],
   "research": [
     {
-      "slug": "seq-lang-llm",
+      "slug": "deterministic-llm-compiler",
       "file": "research/seq-lang-llm.md",
       "title": "Improving LLM Code Generation Reliability Through Compiler-Validated Intermediate Representations",
       "summary": "A controlled study protocol testing whether a typed intermediate representation, deterministic compiler validation and one bounded repair attempt make LLM-generated code more reliable. Using the Seq language's compiler front end and C back end, five comparison arms separate the effects of the IR, grammar-constrained decoding and compiler-guided repair across 120 tasks, with functional correctness on independent tests as the primary outcome. No experimental results are claimed yet.",
